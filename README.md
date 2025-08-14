@@ -1,1 +1,1 @@
-# XadrezC_1
+# Delete XadrezC_1
